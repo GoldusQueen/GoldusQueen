@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects regarding these programming languages and Blender.
 - 📫 How to reach me: My username is Goldus Queen across the internet
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am in the process of creating characters for my game developer friend to use in his first official video game.
+- ⚡ Fun fact: I like to make 3d tiny rooms in my free time
 
 <!---
 GoldusQueen/GoldusQueen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
